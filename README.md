@@ -1,21 +1,7 @@
-# Docker Tutorial for Simple Python Application (IS 601 Assignment)
+# PyCharm implementation of Docker Tutorial for Simple Python Application (IS 601 Assignment)
 
-This repository contains the code for the CS 601 assignment "Docker Tutorial for Simple Python Application"
+This repository contains the code for the CS 601 assignment "Create a Python and Docker project with PyCharm"
 
 ## Purpose
 
-The goal of this assignment is to follow [this tutorial](https://runnable.com/docker/python/dockerize-your-python-application) in order to create a simple python application using a Dockerfile.
-
-## Running the application
-
-### Prerequisites
-
-You must have docker installed in order to run this application
-
-### Startup Command
-
-execute the following command on the command line (cmd, bash, git bash etc.):
-
-```
-docker run python-barcode
-```
+The goal of this assignment is to implement the code from [this repository (from a previous homework)](https://github.com/karthik892/cs601-DockerSimplePythonApp) using PyCharm and Docker.
